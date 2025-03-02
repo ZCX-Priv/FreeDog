@@ -1,0 +1,6 @@
+beautifulsoup4==4.13.3
+chardet==3.0.4
+publicsuffix2==2.20191221
+Requests==2.32.3
+urllib3==2.3.0
+websocket_client==1.8.0
