@@ -2,8 +2,6 @@
     "CERT_FILE": "ssl/cert.pem",
     "KEY_FILE": "ssl/key.pem",
     "FAVICON_FILE": "static/favicon.ico",
-    "STYLE_FILE": "static/style.css",
-    "SCRIPT_FILE": "static/script.js",
     "INDEX_FILE": "templates/index.html",
     "LOGIN_FILE": "templates/login.html",
     "LOG_FILE": "SilkRoad.log",

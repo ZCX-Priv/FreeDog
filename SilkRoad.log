@@ -1,0 +1,97 @@
+2025-03-09 12:26:41,725 - SilkRoad.py[line:273] - ERROR: GzipΩ‚—π¥ÌŒÛ: Not a gzipped file (b'<!')
+2025-03-09 12:26:41,726 - SilkRoad.py[line:294] - ERROR: HTML”≈ªØ¥ÌŒÛ: 'Proxy' object has no attribute 'optimize_html'
+2025-03-09 12:26:42,379 - SilkRoad.py[line:273] - ERROR: GzipΩ‚—π¥ÌŒÛ: Not a gzipped file (b'<!')
+2025-03-09 12:26:42,380 - SilkRoad.py[line:294] - ERROR: HTML”≈ªØ¥ÌŒÛ: 'Proxy' object has no attribute 'optimize_html'
+2025-03-09 12:26:43,632 - SilkRoad.py[line:273] - ERROR: GzipΩ‚—π¥ÌŒÛ: Not a gzipped file (b'@c')
+2025-03-09 12:26:43,771 - SilkRoad.py[line:273] - ERROR: GzipΩ‚—π¥ÌŒÛ: Not a gzipped file (b'@c')
+2025-03-09 12:26:55,526 - SilkRoad.py[line:294] - ERROR: HTML”≈ªØ¥ÌŒÛ: 'Proxy' object has no attribute 'optimize_html'
+2025-03-09 12:26:56,156 - SilkRoad.py[line:294] - ERROR: HTML”≈ªØ¥ÌŒÛ: 'Proxy' object has no attribute 'optimize_html'
+2025-03-09 12:27:03,286 - SilkRoad.py[line:273] - ERROR: GzipΩ‚—π¥ÌŒÛ: Not a gzipped file (b'<!')
+2025-03-09 12:27:03,287 - SilkRoad.py[line:294] - ERROR: HTML”≈ªØ¥ÌŒÛ: 'Proxy' object has no attribute 'optimize_html'
+2025-03-09 12:27:04,415 - SilkRoad.py[line:273] - ERROR: GzipΩ‚—π¥ÌŒÛ: Not a gzipped file (b'@c')
+2025-03-09 12:27:04,650 - SilkRoad.py[line:273] - ERROR: GzipΩ‚—π¥ÌŒÛ: Not a gzipped file (b'@c')
+2025-03-09 12:27:14,403 - SilkRoad.py[line:273] - ERROR: GzipΩ‚—π¥ÌŒÛ: Not a gzipped file (b'<!')
+2025-03-09 12:27:14,410 - SilkRoad.py[line:294] - ERROR: HTML”≈ªØ¥ÌŒÛ: 'Proxy' object has no attribute 'optimize_html'
+2025-03-09 12:27:15,223 - SilkRoad.py[line:273] - ERROR: GzipΩ‚—π¥ÌŒÛ: Not a gzipped file (b'<!')
+2025-03-09 12:27:15,229 - SilkRoad.py[line:294] - ERROR: HTML”≈ªØ¥ÌŒÛ: 'Proxy' object has no attribute 'optimize_html'
+2025-03-09 12:29:25,712 - SilkRoad.py[line:294] - ERROR: HTML”≈ªØ¥ÌŒÛ: 'Proxy' object has no attribute 'optimize_html'
+2025-03-09 12:29:26,506 - SilkRoad.py[line:294] - ERROR: HTML”≈ªØ¥ÌŒÛ: 'Proxy' object has no attribute 'optimize_html'
+2025-03-09 12:29:31,556 - SilkRoad.py[line:273] - ERROR: GzipΩ‚—π¥ÌŒÛ: Not a gzipped file (b'<!')
+2025-03-09 12:29:31,558 - SilkRoad.py[line:294] - ERROR: HTML”≈ªØ¥ÌŒÛ: 'Proxy' object has no attribute 'optimize_html'
+2025-03-09 12:29:32,398 - SilkRoad.py[line:273] - ERROR: GzipΩ‚—π¥ÌŒÛ: Not a gzipped file (b'<!')
+2025-03-09 12:29:32,399 - SilkRoad.py[line:294] - ERROR: HTML”≈ªØ¥ÌŒÛ: 'Proxy' object has no attribute 'optimize_html'
+2025-03-09 12:29:33,479 - SilkRoad.py[line:273] - ERROR: GzipΩ‚—π¥ÌŒÛ: Not a gzipped file (b'@c')
+2025-03-09 12:29:34,111 - SilkRoad.py[line:273] - ERROR: GzipΩ‚—π¥ÌŒÛ: Not a gzipped file (b'@c')
+2025-03-09 12:29:46,363 - SilkRoad.py[line:294] - ERROR: HTML”≈ªØ¥ÌŒÛ: 'Proxy' object has no attribute 'optimize_html'
+2025-03-09 12:29:46,946 - SilkRoad.py[line:273] - ERROR: GzipΩ‚—π¥ÌŒÛ: Not a gzipped file (b'<!')
+2025-03-09 12:29:46,948 - SilkRoad.py[line:294] - ERROR: HTML”≈ªØ¥ÌŒÛ: 'Proxy' object has no attribute 'optimize_html'
+2025-03-09 12:29:48,356 - SilkRoad.py[line:273] - ERROR: GzipΩ‚—π¥ÌŒÛ: Not a gzipped file (b'@c')
+2025-03-09 12:29:48,510 - SilkRoad.py[line:273] - ERROR: GzipΩ‚—π¥ÌŒÛ: Not a gzipped file (b'@c')
+2025-03-09 12:29:58,635 - SilkRoad.py[line:337] - ERROR: ¥˙¿Ì¥ÌŒÛ: ¡¨Ω”¥ÌŒÛ: HTTPSConnectionPool(host='s1.hdslb.com', port=443): Max retries exceeded with url: /bfs/static/laputa-home/client/assets/index.0ce4421d.js (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))
+2025-03-09 12:30:01,112 - SilkRoad.py[line:337] - ERROR: ¥˙¿Ì¥ÌŒÛ: «Î«Û≥¨ ±: HTTPSConnectionPool(host='www.bilibili.com', port=443): Read timed out. (read timeout=10)
+2025-03-09 13:39:43.046 | INFO     | __main__:<module>:397 - Serving HTTP on 0.0.0.0 port 4430 (https://127.0.0.1:4430...)
+2025-03-09 13:40:20.542 | ERROR    | __main__:process_error:164 - Proxy error: [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1018)
+2025-03-09 13:40:20.585 | ERROR    | __main__:process_error:164 - Proxy error: [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1018)
+2025-03-09 13:40:20.825 | ERROR    | __main__:process_error:164 - Proxy error: [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1018)
+2025-03-09 13:40:20.878 | ERROR    | __main__:process_error:164 - Proxy error: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1018)
+2025-03-09 13:41:57.313 | INFO     | __main__:<module>:516 - Serving HTTP on 0.0.0.0 port 4430 (https://127.0.0.1:4430...)
+2025-03-09 13:42:13.542 | ERROR    | __main__:process_response:273 - Stream transfer error: too many values to unpack (expected 2)
+2025-03-09 13:42:13.562 | ERROR    | __main__:process_response:273 - Stream transfer error: too many values to unpack (expected 2)
+2025-03-09 13:42:13.728 | ERROR    | __main__:process_response:273 - Stream transfer error: too many values to unpack (expected 2)
+2025-03-09 13:42:13.835 | ERROR    | __main__:process_response:273 - Stream transfer error: too many values to unpack (expected 2)
+2025-03-09 13:42:13.865 | ERROR    | __main__:process_response:273 - Stream transfer error: too many values to unpack (expected 2)
+2025-03-09 13:42:13.875 | ERROR    | __main__:process_response:273 - Stream transfer error: too many values to unpack (expected 2)
+2025-03-09 13:43:24.112 | ERROR    | __main__:process_response:273 - Stream transfer error: too many values to unpack (expected 2)
+2025-03-09 13:43:24.113 | ERROR    | __main__:process_response:273 - Stream transfer error: too many values to unpack (expected 2)
+2025-03-09 13:43:24.119 | ERROR    | __main__:process_response:273 - Stream transfer error: too many values to unpack (expected 2)
+2025-03-09 13:43:35.874 | INFO     | __main__:<module>:516 - Serving HTTP on 0.0.0.0 port 4430 (https://127.0.0.1:4430...)
+2025-03-09 13:43:53.458 | ERROR    | __main__:process_response:273 - Stream transfer error: too many values to unpack (expected 2)
+2025-03-09 13:43:53.461 | ERROR    | __main__:process_response:273 - Stream transfer error: too many values to unpack (expected 2)
+2025-03-09 13:43:53.575 | ERROR    | __main__:process_response:273 - Stream transfer error: too many values to unpack (expected 2)
+2025-03-09 13:43:53.575 | ERROR    | __main__:process_response:273 - Stream transfer error: too many values to unpack (expected 2)
+2025-03-09 13:43:53.579 | ERROR    | __main__:process_response:273 - Stream transfer error: too many values to unpack (expected 2)
+2025-03-09 13:43:53.635 | ERROR    | __main__:process_response:273 - Stream transfer error: too many values to unpack (expected 2)
+2025-03-09 13:44:41.922 | INFO     | __main__:<module>:516 - Serving HTTP on 0.0.0.0 port 4430 (https://127.0.0.1:4430...)
+2025-03-09 13:44:52.239 | ERROR    | __main__:process_response:273 - Stream transfer error: too many values to unpack (expected 2)
+2025-03-09 13:44:52.349 | ERROR    | __main__:process_response:273 - Stream transfer error: too many values to unpack (expected 2)
+2025-03-09 13:44:52.442 | ERROR    | __main__:process_response:273 - Stream transfer error: too many values to unpack (expected 2)
+2025-03-09 13:44:52.496 | ERROR    | __main__:process_response:273 - Stream transfer error: too many values to unpack (expected 2)
+2025-03-09 13:44:52.504 | ERROR    | __main__:process_response:273 - Stream transfer error: too many values to unpack (expected 2)
+2025-03-09 13:44:52.629 | ERROR    | __main__:process_response:273 - Stream transfer error: too many values to unpack (expected 2)
+2025-03-09 13:54:30.262 | INFO     | __main__:<module>:516 - Serving HTTP on 0.0.0.0 port 4430 (https://127.0.0.1:4430...)
+2025-03-09 13:54:43.991 | ERROR    | __main__:process_response:273 - Stream transfer error: too many values to unpack (expected 2)
+2025-03-09 13:54:43.992 | ERROR    | __main__:process_response:273 - Stream transfer error: too many values to unpack (expected 2)
+2025-03-09 13:54:44.401 | ERROR    | __main__:process_response:273 - Stream transfer error: too many values to unpack (expected 2)
+2025-03-09 13:55:01.811 | ERROR    | __main__:process_response:273 - Stream transfer error: too many values to unpack (expected 2)
+2025-03-09 13:55:01.923 | ERROR    | __main__:process_response:273 - Stream transfer error: too many values to unpack (expected 2)
+2025-03-09 13:55:02.063 | ERROR    | __main__:process_response:273 - Stream transfer error: too many values to unpack (expected 2)
+2025-03-09 13:59:29.167 | INFO     | __main__:<module>:503 - Serving HTTP on 0.0.0.0 port 4430 (https://127.0.0.1:4430...)
+2025-03-09 14:00:20.840 | ERROR    | __main__:process_error:264 - Proxy error: Server disconnected without sending a response.
+2025-03-09 14:03:17.416 | INFO     | __main__:<module>:502 - Serving HTTP on 0.0.0.0 port 4430 (https://127.0.0.1:4430...)
+2025-03-09 14:04:07.903 | INFO     | __main__:<module>:505 - Serving HTTP on 0.0.0.0 port 4430 (https://127.0.0.1:4430...)
+2025-03-09 14:05:46.860 | ERROR    | __main__:process_error:266 - Proxy error: Server disconnected without sending a response.
+2025-03-09 14:06:32.453 | ERROR    | __main__:process_error:266 - Proxy error: Server disconnected without sending a response.
+2025-03-09 14:10:53.856 | INFO     | __main__:<module>:485 - Serving HTTP on 0.0.0.0 port 4430 (https://127.0.0.1:4430...)
+2025-03-09 14:12:26.119 | ERROR    | __main__:process_error:266 - Proxy error: Server disconnected without sending a response.
+2025-03-09 14:34:32.489 | INFO     | __main__:<module>:485 - Serving HTTP on 0.0.0.0 port 4430 (https://127.0.0.1:4430...)
+2025-03-09 14:39:03.915 | INFO     | __main__:<module>:485 - Serving HTTP on 0.0.0.0 port 4430 (https://127.0.0.1:4430...)
+2025-03-09 14:55:21.308 | INFO     | __main__:<module>:485 - Serving HTTP on 0.0.0.0 port 4430 (https://127.0.0.1:4430...)
+2025-03-09 14:57:00.501 | INFO     | __main__:<module>:485 - Serving HTTP on 0.0.0.0 port 4430 (https://127.0.0.1:4430...)
+2025-03-09 14:57:51.358 | INFO     | __main__:<module>:485 - Serving HTTP on 0.0.0.0 port 4430 (https://127.0.0.1:4430...)
+2025-03-09 15:13:22.207 | INFO     | __main__:<module>:485 - Serving HTTP on 0.0.0.0 port 4430 (https://127.0.0.1:4430...)
+2025-03-09 15:14:10.160 | ERROR    | __main__:process_error:266 - Proxy error: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1018)
+2025-03-09 15:16:23.090 | INFO     | __main__:<module>:485 - Serving HTTP on 0.0.0.0 port 4430 (https://127.0.0.1:4430...)
+2025-03-09 15:17:04.850 | INFO     | __main__:signal_handler:96 - Á®ãÂ∫èÈÄÄÂá∫ÔºåÊ≠£Âú®Ê∏ÖÁêÜÁºìÂ≠ò...
+2025-03-09 15:36:19.367 | INFO     | __main__:<module>:485 - Serving HTTP on 0.0.0.0 port 4430 (https://127.0.0.1:4430...)
+2025-03-09 15:36:43.796 | ERROR    | __main__:process_error:266 - Proxy error: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1018)
+2025-03-09 15:36:49.275 | ERROR    | __main__:process_error:266 - Proxy error: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1018)
+2025-03-09 15:36:50.975 | ERROR    | __main__:process_error:266 - Proxy error: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1018)
+2025-03-09 15:37:12.411 | ERROR    | __main__:process_error:266 - Proxy error: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1018)
+2025-03-09 15:37:19.438 | ERROR    | __main__:process_error:266 - Proxy error: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1018)
+2025-03-09 15:37:26.539 | ERROR    | __main__:process_error:266 - Proxy error: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1018)
+2025-03-09 15:37:26.658 | ERROR    | __main__:process_error:266 - Proxy error: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1018)
+2025-03-09 15:37:42.230 | ERROR    | __main__:process_error:266 - Proxy error: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1018)
+2025-03-09 15:37:42.306 | ERROR    | __main__:process_error:266 - Proxy error: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1018)
+2025-03-09 15:37:54.575 | ERROR    | __main__:process_error:266 - Proxy error: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1018)
+2025-03-09 15:38:37.913 | ERROR    | __main__:process_error:266 - Proxy error: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1018)
+2025-03-09 15:46:39.249 | INFO     | __main__:<module>:485 - Serving HTTP on 0.0.0.0 port 4430 (https://127.0.0.1:4430...)
